@@ -1,1 +1,1 @@
-# pricepanel
+# Price Panel
